@@ -11,6 +11,8 @@ punchline, and a fresh angle — no milk, no ice, no door left open.
 
 import os
 
+# The punchline is a witness, not a complaint about milk, ice, or a door:
+# the butter has been watching the owner raid the fridge at 3am too.
 LINE = "3am. I've been humming since 2019 and you still haven't said thank you. The butter saw what you did."
 
 
